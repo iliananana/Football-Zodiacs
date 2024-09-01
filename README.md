@@ -1,5 +1,5 @@
 # Zodiac Sign Calculator for Fantasy Football Drafts
-A program to get the zodiac sign of tier 1 &amp; 2 players, designed to help you draft a fantasy football team based with astrological insights.
+A program to get the zodiac sign of tier 1 &amp; 2 players, designed to help you draft a fantasy football team with astrological insights.
 
 ## Installation
 
